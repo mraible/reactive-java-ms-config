@@ -4,9 +4,8 @@ spring:
       client:
         provider:
           oidc:
-            issuer-uri: https://dev-9323263.okta.com/oauth2/default
+            issuer-uri: https://dev-1106225.okta.com/oauth2/default
         registration:
           oidc:
-            client-id: 0oanmx12wGZL7y1MS5d6
-            client-secret: "{cipher}1b12934716c32d360c85f651a0793df2777090c2ae483faf2d56a52cdf31103cce92ef5d6b0c04e84e091f37b7163642bce4b0b5cf5341c41eb2ec126ec763b3"
-
+            client-id: 0oapdlc1jbTQsin5h5d6
+            client-secret: "{cipher}c081373a9023c28d09bc73cfaececc9ebcd1155744eeaedde1a3324b09ad3e350fecbeed21e0e3aa60fc29dcd1183ebb2783d5118f9761028fcd708774962031"
